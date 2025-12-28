@@ -1,0 +1,92 @@
+[
+  {
+    "id": "account_1756233097663",
+    "name": "RBC ION Visa",
+    "type": "credit",
+    "currency": "CAD",
+    "profileId": "profile_1756233071875",
+    "balance": 0,
+    "createdAt": "2025-08-26T18:31:37.663Z",
+    "updatedAt": "2025-08-26T18:31:37.663Z"
+  },
+  {
+    "id": "account_1756235077731",
+    "name": "RBC Avion",
+    "type": "credit",
+    "currency": "CAD",
+    "profileId": "profile_1756233071875",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:04:37.731Z",
+    "updatedAt": "2025-08-26T19:04:37.731Z"
+  },
+  {
+    "id": "account_1756235482822",
+    "name": "CIBC - Debit",
+    "type": "checking",
+    "currency": "CAD",
+    "profileId": "profile_1756233071875",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:11:22.822Z",
+    "updatedAt": "2025-08-26T19:11:22.822Z"
+  },
+  {
+    "id": "account_1756236160753",
+    "name": "Amex Plat",
+    "type": "credit",
+    "currency": "CAD",
+    "profileId": "profile_1756233071875",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:22:40.753Z",
+    "updatedAt": "2025-08-26T19:22:40.753Z"
+  },
+  {
+    "id": "account_1756237008050",
+    "name": "Mercury All",
+    "type": "checking",
+    "currency": "USD",
+    "profileId": "profile_1756236992489",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:36:48.050Z",
+    "updatedAt": "2025-08-26T19:36:48.050Z"
+  },
+  {
+    "id": "account_1756237993265",
+    "name": "RBC Visa Credit line",
+    "type": "credit",
+    "currency": "CAD",
+    "profileId": "profile_1756236992489",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:53:13.265Z",
+    "updatedAt": "2025-08-26T19:53:13.265Z"
+  },
+  {
+    "id": "account_1756238066075",
+    "name": "RBC Checking",
+    "type": "checking",
+    "currency": "CAD",
+    "profileId": "profile_1756236992489",
+    "balance": 0,
+    "createdAt": "2025-08-26T19:54:26.075Z",
+    "updatedAt": "2025-08-26T19:54:26.075Z"
+  },
+  {
+    "id": "account_1756248399692",
+    "name": "Sample Account TD",
+    "type": "checking",
+    "currency": "CAD",
+    "profileId": "profile_1756236992489",
+    "balance": 0,
+    "createdAt": "2025-08-26T22:46:39.692Z",
+    "updatedAt": "2025-08-26T22:46:39.692Z"
+  },
+  {
+    "id": "account_1757080566048",
+    "name": "Test account",
+    "type": "credit",
+    "currency": "CAD",
+    "profileId": "profile_1756233071875",
+    "balance": 0,
+    "createdAt": "2025-09-05T13:56:06.048Z",
+    "updatedAt": "2025-09-05T13:56:06.048Z"
+  }
+]

@@ -1,0 +1,782 @@
+{
+  "LOBLAW TORONTO EGLINTO TORONTO": {
+    "merchantName": "LOBLAW TORONTO EGLINTO TORONTO",
+    "categoryId": "category_1756234693956_f6aoh1dul",
+    "createdAt": "2025-08-26T18:58:16.268Z",
+    "updatedAt": "2025-08-26T18:58:16.268Z"
+  },
+  "PIZZAIOLO TORONTO": {
+    "merchantName": "PIZZAIOLO TORONTO",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T18:58:26.339Z",
+    "updatedAt": "2025-08-26T18:58:26.339Z"
+  },
+  "WAL-MART SUPERCENTER": {
+    "merchantName": "WAL-MART SUPERCENTER",
+    "categoryId": "category_1756234717460_xkic8j854",
+    "createdAt": "2025-08-26T18:58:39.724Z",
+    "updatedAt": "2025-08-26T18:58:39.724Z"
+  },
+  "BALA BAY TAKE AWAY BALA": {
+    "merchantName": "BALA BAY TAKE AWAY BALA",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T18:58:46.391Z",
+    "updatedAt": "2025-08-26T18:58:46.391Z"
+  },
+  "BALA FRESH MART BALA": {
+    "merchantName": "BALA FRESH MART BALA",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T18:58:51.039Z",
+    "updatedAt": "2025-08-26T18:58:51.039Z"
+  },
+  "- THANK YOU / PAIEMENT - MERCI": {
+    "merchantName": "- THANK YOU / PAIEMENT - MERCI",
+    "categoryId": "category_1756234748782_3t7iy6pzj",
+    "createdAt": "2025-08-26T18:59:10.843Z",
+    "updatedAt": "2025-08-26T18:59:10.843Z"
+  },
+  "PROVIDENT-E-UTIL-PMNT 416-736-0630": {
+    "merchantName": "PROVIDENT-E-UTIL-PMNT 416-736-0630",
+    "categoryId": "category_1756234769173_4x2elazro",
+    "createdAt": "2025-08-26T18:59:31.559Z",
+    "updatedAt": "2025-08-26T18:59:31.559Z"
+  },
+  "PAYMENTUS-SERVICE-FEE 800-420-1663": {
+    "merchantName": "PAYMENTUS-SERVICE-FEE 800-420-1663",
+    "categoryId": "category_1756234769173_4x2elazro",
+    "createdAt": "2025-08-26T18:59:33.705Z",
+    "updatedAt": "2025-08-26T18:59:33.705Z"
+  },
+  "PETRO-CANADA": {
+    "merchantName": "PETRO-CANADA",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:00:21.394Z",
+    "updatedAt": "2025-08-26T19:00:21.394Z"
+  },
+  "DD/DOORDASHHARVEYS VANCOUVER": {
+    "merchantName": "DD/DOORDASHHARVEYS VANCOUVER",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:00:42.525Z",
+    "updatedAt": "2025-08-26T19:00:42.525Z"
+  },
+  "TST-The Cottage Cheese Toronto": {
+    "merchantName": "TST-The Cottage Cheese Toronto",
+    "categoryId": "category_1756234854045_z32t4bwvc",
+    "createdAt": "2025-08-26T19:01:18.590Z",
+    "updatedAt": "2025-08-26T19:01:18.590Z"
+  },
+  "POPEYES": {
+    "merchantName": "POPEYES",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:01:35.887Z",
+    "updatedAt": "2025-08-26T19:01:35.887Z"
+  },
+  "ACTION AGAINST HUNGER 844-644-1016": {
+    "merchantName": "ACTION AGAINST HUNGER 844-644-1016",
+    "categoryId": "category_1756234918297_5rj3cet3t",
+    "createdAt": "2025-08-26T19:02:01.927Z",
+    "updatedAt": "2025-08-26T19:02:01.927Z"
+  },
+  "UBER": {
+    "merchantName": "UBER",
+    "categoryId": "category_1756234906969_9kt91u9ep",
+    "createdAt": "2025-08-26T19:02:05.847Z",
+    "updatedAt": "2025-08-26T19:02:05.847Z"
+  },
+  "CASH ADVANCE INTEREST 22.99%": {
+    "merchantName": "CASH ADVANCE INTEREST 22.99%",
+    "categoryId": "category_1756234748782_3t7iy6pzj",
+    "createdAt": "2025-08-26T19:02:29.887Z",
+    "updatedAt": "2025-08-26T19:02:29.887Z"
+  },
+  "CONV FEE -TORONTO RSD ETOBICOKE": {
+    "merchantName": "CONV FEE -TORONTO RSD ETOBICOKE",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:03:06.910Z",
+    "updatedAt": "2025-08-26T19:03:06.910Z"
+  },
+  "RSD-PARKING TICKET-CREDITTORONTO": {
+    "merchantName": "RSD-PARKING TICKET-CREDITTORONTO",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:03:09.237Z",
+    "updatedAt": "2025-08-26T19:03:09.237Z"
+  },
+  "ANNUAL": {
+    "merchantName": "ANNUAL",
+    "categoryId": "category_1756235203378_nf63xaxex",
+    "createdAt": "2025-08-26T19:06:48.877Z",
+    "updatedAt": "2025-08-26T19:06:48.877Z"
+  },
+  "Kasa Kana Bala Ontario": {
+    "merchantName": "Kasa Kana Bala Ontario",
+    "categoryId": "category_1756234693956_f6aoh1dul",
+    "createdAt": "2025-08-26T19:06:54.041Z",
+    "updatedAt": "2025-08-26T19:06:54.041Z"
+  },
+  "WHAT A CONVENIENCE STORE BALA": {
+    "merchantName": "WHAT A CONVENIENCE STORE BALA",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:07:05.492Z",
+    "updatedAt": "2025-08-26T19:07:05.492Z"
+  },
+  "TIM HORTONS": {
+    "merchantName": "TIM HORTONS",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:07:10.725Z",
+    "updatedAt": "2025-08-26T19:07:10.725Z"
+  },
+  "CORPORATE FILINGS LLC 888-789846": {
+    "merchantName": "CORPORATE FILINGS LLC 888-789846",
+    "categoryId": "category_1756235242780_nhvyk6ib0",
+    "createdAt": "2025-08-26T19:07:25.454Z",
+    "updatedAt": "2025-08-26T19:07:25.454Z"
+  },
+  "BIKE SHARE TORONTO PARKIN TORONTO": {
+    "merchantName": "BIKE SHARE TORONTO PARKIN TORONTO",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:07:30.867Z",
+    "updatedAt": "2025-08-26T19:07:30.867Z"
+  },
+  "FAMOUS PLAYER": {
+    "merchantName": "FAMOUS PLAYER",
+    "categoryId": "category_1756234854045_z32t4bwvc",
+    "createdAt": "2025-08-26T19:07:36.032Z",
+    "updatedAt": "2025-08-26T19:07:36.032Z"
+  },
+  "DOLLARAMA # 736 TORONTO": {
+    "merchantName": "DOLLARAMA # 736 TORONTO",
+    "categoryId": "category_1756234717460_xkic8j854",
+    "createdAt": "2025-08-26T19:07:45.687Z",
+    "updatedAt": "2025-08-26T19:07:45.687Z"
+  },
+  "SQ": {
+    "merchantName": "SQ",
+    "categoryId": "category_1756235277977_m74pmu63s",
+    "createdAt": "2025-08-26T19:08:01.985Z",
+    "updatedAt": "2025-08-26T19:08:01.985Z"
+  },
+  "LCBO/RAO": {
+    "merchantName": "LCBO/RAO",
+    "categoryId": "category_1756235303592_lczml7q8a",
+    "createdAt": "2025-08-26T19:08:30.837Z",
+    "updatedAt": "2025-08-26T19:08:30.837Z"
+  },
+  "CHIPOTLE": {
+    "merchantName": "CHIPOTLE",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:08:33.418Z",
+    "updatedAt": "2025-08-26T19:08:33.418Z"
+  },
+  "WWW.DOORDA": {
+    "merchantName": "WWW.DOORDA",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:08:42.033Z",
+    "updatedAt": "2025-08-26T19:08:42.033Z"
+  },
+  "EXXON MICHIGAN FUELS M WARREN": {
+    "merchantName": "EXXON MICHIGAN FUELS M WARREN",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:08:54.122Z",
+    "updatedAt": "2025-08-26T19:08:54.122Z"
+  },
+  "BLUE WATER BRIDGE (CAN POINT EDWARD": {
+    "merchantName": "BLUE WATER BRIDGE (CAN POINT EDWARD",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:08:58.080Z",
+    "updatedAt": "2025-08-26T19:08:58.080Z"
+  },
+  "MGM DET GRAND AXIS LOU DETROIT M": {
+    "merchantName": "MGM DET GRAND AXIS LOU DETROIT M",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:09:04.983Z",
+    "updatedAt": "2025-08-26T19:09:04.983Z"
+  },
+  "FIKA LOCAL FAIRVIEW MALL NORTH YORK": {
+    "merchantName": "FIKA LOCAL FAIRVIEW MALL NORTH YORK",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:09:14.240Z",
+    "updatedAt": "2025-08-26T19:09:14.240Z"
+  },
+  "DETROIT WINDSOR TUNNEL DETROIT M": {
+    "merchantName": "DETROIT WINDSOR TUNNEL DETROIT M",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:09:18.694Z",
+    "updatedAt": "2025-08-26T19:09:18.694Z"
+  },
+  "DETROIT OPERA HOUSE GA DETROIT M": {
+    "merchantName": "DETROIT OPERA HOUSE GA DETROIT M",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:09:28.151Z",
+    "updatedAt": "2025-08-26T19:09:28.151Z"
+  },
+  "THE HUNNY POT CANNABIS TORONTO": {
+    "merchantName": "THE HUNNY POT CANNABIS TORONTO",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:09:30.356Z",
+    "updatedAt": "2025-08-26T19:09:30.356Z"
+  },
+  "DOORDASHLCBO DOWNTOWN TOROON": {
+    "merchantName": "DOORDASHLCBO DOWNTOWN TOROON",
+    "categoryId": "category_1756235303592_lczml7q8a",
+    "createdAt": "2025-08-26T19:09:36.019Z",
+    "updatedAt": "2025-08-26T19:09:36.019Z"
+  },
+  "INS MARKET #": {
+    "merchantName": "INS MARKET #",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:09:42.350Z",
+    "updatedAt": "2025-08-26T19:09:42.350Z"
+  },
+  "SHOPPERS DRUG MART": {
+    "merchantName": "SHOPPERS DRUG MART",
+    "categoryId": "category_1756234717460_xkic8j854",
+    "createdAt": "2025-08-26T19:09:44.890Z",
+    "updatedAt": "2025-08-26T19:09:44.890Z"
+  },
+  "DOLLARAMA": {
+    "merchantName": "DOLLARAMA",
+    "categoryId": "category_1756234717460_xkic8j854",
+    "createdAt": "2025-08-26T19:09:48.110Z",
+    "updatedAt": "2025-08-26T19:09:48.110Z"
+  },
+  "PROVINCIAL OFFENCES - POA SARNIA": {
+    "merchantName": "PROVINCIAL OFFENCES - POA SARNIA",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:09:57.165Z",
+    "updatedAt": "2025-08-26T19:09:57.165Z"
+  },
+  "TERANET POA HANDLING FEE TORONTO": {
+    "merchantName": "TERANET POA HANDLING FEE TORONTO",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:10:01.334Z",
+    "updatedAt": "2025-08-26T19:10:01.334Z"
+  },
+  "NEIGHBOURHOOD CONVENIENCE TORONTO": {
+    "merchantName": "NEIGHBOURHOOD CONVENIENCE TORONTO",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:10:05.480Z",
+    "updatedAt": "2025-08-26T19:10:05.480Z"
+  },
+  "Internet Banking E-TRANSFER landlord": {
+    "merchantName": "Internet Banking E-TRANSFER landlord",
+    "categoryId": "category_1756235705853_fi79um9r5",
+    "createdAt": "2025-08-26T19:15:09.465Z",
+    "updatedAt": "2025-08-26T19:15:09.465Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE TIM HORTONS": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE TIM HORTONS",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:15:14.760Z",
+    "updatedAt": "2025-08-26T19:15:14.760Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE THE HUNNY POT C": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE THE HUNNY POT C",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:15:16.318Z",
+    "updatedAt": "2025-08-26T19:15:16.318Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE GROWERS RETAIL": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE GROWERS RETAIL",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:15:21.626Z",
+    "updatedAt": "2025-08-26T19:15:21.626Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE BULK BARN 767 T": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE BULK BARN 767 T",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:15:31.046Z",
+    "updatedAt": "2025-08-26T19:15:31.046Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE SQ": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE SQ",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:15:55.508Z",
+    "updatedAt": "2025-08-26T19:15:55.508Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE DAIRY QUEEN": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE DAIRY QUEEN",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:15:58.801Z",
+    "updatedAt": "2025-08-26T19:15:58.801Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE EC - Toronto": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE EC - Toronto",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:17:25.328Z",
+    "updatedAt": "2025-08-26T19:17:25.328Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE NEIGHBOURHOOD C": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE NEIGHBOURHOOD C",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:17:41.635Z",
+    "updatedAt": "2025-08-26T19:17:41.635Z"
+  },
+  "Automated Banking Machine ATM WITHDRAWAL INTERAC/TNS SCD": {
+    "merchantName": "Automated Banking Machine ATM WITHDRAWAL INTERAC/TNS SCD",
+    "categoryId": "category_1756235902173_93eu2un95",
+    "createdAt": "2025-08-26T19:18:26.175Z",
+    "updatedAt": "2025-08-26T19:18:26.175Z"
+  },
+  "Internet Banking E-TRANSFER Abdikarim Mohamed Abukar": {
+    "merchantName": "Internet Banking E-TRANSFER Abdikarim Mohamed Abukar",
+    "categoryId": "category_1756235914590_grf83zdpc",
+    "createdAt": "2025-08-26T19:18:37.450Z",
+    "updatedAt": "2025-08-26T19:18:37.450Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE POPEYES": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE POPEYES",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:18:38.973Z",
+    "updatedAt": "2025-08-26T19:18:38.973Z"
+  },
+  "Point of Sale - Visa Debit VISA DIRECT CREDIT PAYPAL": {
+    "merchantName": "Point of Sale - Visa Debit VISA DIRECT CREDIT PAYPAL",
+    "categoryId": "category_1756235914590_grf83zdpc",
+    "createdAt": "2025-08-26T19:19:12.578Z",
+    "updatedAt": "2025-08-26T19:19:12.578Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE HASTY MARKET": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE HASTY MARKET",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:19:17.672Z",
+    "updatedAt": "2025-08-26T19:19:17.672Z"
+  },
+  "Electronic Funds Transfer DEPOSIT CANADA": {
+    "merchantName": "Electronic Funds Transfer DEPOSIT CANADA",
+    "categoryId": "category_1756235914590_grf83zdpc",
+    "createdAt": "2025-08-26T19:19:32.423Z",
+    "updatedAt": "2025-08-26T19:19:32.423Z"
+  },
+  "Automated Banking Machine ATM WITHDRAWAL INTERAC/RBC SCD": {
+    "merchantName": "Automated Banking Machine ATM WITHDRAWAL INTERAC/RBC SCD",
+    "categoryId": "category_1756235902173_93eu2un95",
+    "createdAt": "2025-08-26T19:19:37.200Z",
+    "updatedAt": "2025-08-26T19:19:37.200Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE FIKA LOCAL FAIR": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE FIKA LOCAL FAIR",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:19:40.095Z",
+    "updatedAt": "2025-08-26T19:19:40.095Z"
+  },
+  "Internet Banking E-TRANSFER daren": {
+    "merchantName": "Internet Banking E-TRANSFER daren",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:19:44.910Z",
+    "updatedAt": "2025-08-26T19:19:44.910Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE PRES/PP9RSRM5JV": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE PRES/PP9RSRM5JV",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:19:51.305Z",
+    "updatedAt": "2025-08-26T19:19:51.305Z"
+  },
+  "Internet Banking E-TRANSFER david hair studio": {
+    "merchantName": "Internet Banking E-TRANSFER david hair studio",
+    "categoryId": "category_1756236005309_meu3woa34",
+    "createdAt": "2025-08-26T19:20:09.571Z",
+    "updatedAt": "2025-08-26T19:20:09.571Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE HI CLASS CANNAB": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE HI CLASS CANNAB",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:20:16.638Z",
+    "updatedAt": "2025-08-26T19:20:16.638Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE THE HUNNY": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE THE HUNNY",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:20:22.668Z",
+    "updatedAt": "2025-08-26T19:20:22.668Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE Fogtown Flower": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE Fogtown Flower",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:20:26.034Z",
+    "updatedAt": "2025-08-26T19:20:26.034Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE OLIVER'S COFFEE": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE OLIVER'S COFFEE",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:20:38.403Z",
+    "updatedAt": "2025-08-26T19:20:38.403Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE Kasa Kana Bala": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE Kasa Kana Bala",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:20:47.102Z",
+    "updatedAt": "2025-08-26T19:20:47.102Z"
+  },
+  "Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Spotify P3925CD": {
+    "merchantName": "Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Spotify P3925CD",
+    "categoryId": "category_1756235277977_m74pmu63s",
+    "createdAt": "2025-08-26T19:20:56.886Z",
+    "updatedAt": "2025-08-26T19:20:56.886Z"
+  },
+  "Branch Transaction MONTHLY FIXED OVERDRAFT": {
+    "merchantName": "Branch Transaction MONTHLY FIXED OVERDRAFT",
+    "categoryId": "category_1756236077651_m52sswciq",
+    "createdAt": "2025-08-26T19:21:21.010Z",
+    "updatedAt": "2025-08-26T19:21:21.010Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE DAVID'S GENERAL": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE DAVID'S GENERAL",
+    "categoryId": "category_1756234892519_lleikv55c",
+    "createdAt": "2025-08-26T19:21:32.987Z",
+    "updatedAt": "2025-08-26T19:21:32.987Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE WAL-MART": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE WAL-MART",
+    "categoryId": "category_1756234717460_xkic8j854",
+    "createdAt": "2025-08-26T19:21:40.066Z",
+    "updatedAt": "2025-08-26T19:21:40.066Z"
+  },
+  "Internet Banking E-TRANSFER Deel, Inc.": {
+    "merchantName": "Internet Banking E-TRANSFER Deel, Inc.",
+    "categoryId": "category_1756235914590_grf83zdpc",
+    "createdAt": "2025-08-26T19:21:45.801Z",
+    "updatedAt": "2025-08-26T19:21:45.801Z"
+  },
+  "Point of Sale - Interac RETAIL PURCHASE TRUE NORTH CANN": {
+    "merchantName": "Point of Sale - Interac RETAIL PURCHASE TRUE NORTH CANN",
+    "categoryId": "category_1756235352162_v1uk5qkk2",
+    "createdAt": "2025-08-26T19:21:48.848Z",
+    "updatedAt": "2025-08-26T19:21:48.848Z"
+  },
+  "UBER TRIP": {
+    "merchantName": "UBER TRIP",
+    "categoryId": "category_1756234906969_9kt91u9ep",
+    "createdAt": "2025-08-26T19:27:48.619Z",
+    "updatedAt": "2025-08-26T19:27:48.619Z"
+  },
+  "DOORDASHHARVEYS DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHHARVEYS DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:27:53.125Z",
+    "updatedAt": "2025-08-26T19:27:53.125Z"
+  },
+  "DOORDASHSUBWAY DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHSUBWAY DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:27:55.400Z",
+    "updatedAt": "2025-08-26T19:27:55.400Z"
+  },
+  "SQUARE ONE INSURANCE S VANCOUVER": {
+    "merchantName": "SQUARE ONE INSURANCE S VANCOUVER",
+    "categoryId": "category_1756236488517_wx1nftvhq",
+    "createdAt": "2025-08-26T19:28:12.134Z",
+    "updatedAt": "2025-08-26T19:28:12.134Z"
+  },
+  "DOORDASHMCDONALDS DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHMCDONALDS DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:28:15.055Z",
+    "updatedAt": "2025-08-26T19:28:15.055Z"
+  },
+  "DOORDASHCHIPOTLE DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHCHIPOTLE DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:28:18.039Z",
+    "updatedAt": "2025-08-26T19:28:18.039Z"
+  },
+  "DOORDASHDASHPASS DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHDASHPASS DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:28:20.692Z",
+    "updatedAt": "2025-08-26T19:28:20.692Z"
+  },
+  "DOORDASHPOPEYESLOUI DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHPOPEYESLOUI DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:28:23.860Z",
+    "updatedAt": "2025-08-26T19:28:23.860Z"
+  },
+  "AMZN MKTP": {
+    "merchantName": "AMZN MKTP",
+    "categoryId": "category_1756236515270_g2v92qy6l",
+    "createdAt": "2025-08-26T19:28:37.578Z",
+    "updatedAt": "2025-08-26T19:28:37.578Z"
+  },
+  "DOORDASHNANDOSPERIP DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHNANDOSPERIP DOWNTOWN TORONT",
+    "categoryId": "category_1756234838149_9avqhoawv",
+    "createdAt": "2025-08-26T19:28:40.139Z",
+    "updatedAt": "2025-08-26T19:28:40.139Z"
+  },
+  "UBER EATS": {
+    "merchantName": "UBER EATS",
+    "categoryId": "category_1756236534440_1umwiqvvk",
+    "createdAt": "2025-08-26T19:28:57.240Z",
+    "updatedAt": "2025-08-26T19:28:57.240Z"
+  },
+  "DOORDASHPIZZAPIZZA DOWNTOWN TORONT": {
+    "merchantName": "DOORDASHPIZZAPIZZA DOWNTOWN TORONT",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:29:01.682Z",
+    "updatedAt": "2025-08-26T19:29:01.682Z"
+  },
+  "BEST BUY": {
+    "merchantName": "BEST BUY",
+    "categoryId": "category_1756236588785_cfsulegc2",
+    "createdAt": "2025-08-26T19:29:53.111Z",
+    "updatedAt": "2025-08-26T19:29:53.111Z"
+  },
+  "CLAUDE.AI SUBSCRIPTION SAN FRANCISCO": {
+    "merchantName": "CLAUDE.AI SUBSCRIPTION SAN FRANCISCO",
+    "categoryId": "category_1756234984038_95m8xax6o",
+    "createdAt": "2025-08-26T19:29:57.175Z",
+    "updatedAt": "2025-08-26T19:29:57.175Z"
+  },
+  "Grazie Ristorante TORONTO": {
+    "merchantName": "Grazie Ristorante TORONTO",
+    "categoryId": "category_1756234854045_z32t4bwvc",
+    "createdAt": "2025-08-26T19:30:01.551Z",
+    "updatedAt": "2025-08-26T19:30:01.551Z"
+  },
+  "MCDONALD'S F18269": {
+    "merchantName": "MCDONALD'S F18269",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:30:04.251Z",
+    "updatedAt": "2025-08-26T19:30:04.251Z"
+  },
+  "SPIN": {
+    "merchantName": "SPIN",
+    "categoryId": "category_1756234816078_jpqis8j29",
+    "createdAt": "2025-08-26T19:30:09.878Z",
+    "updatedAt": "2025-08-26T19:30:09.878Z"
+  },
+  "TST": {
+    "merchantName": "TST",
+    "categoryId": "category_1756235303592_lczml7q8a",
+    "createdAt": "2025-08-26T19:30:26.832Z",
+    "updatedAt": "2025-08-26T19:30:26.832Z"
+  },
+  "BELL CANADA (OB) MONTREAL": {
+    "merchantName": "BELL CANADA (OB) MONTREAL",
+    "categoryId": "category_1756236632787_raxjp49ys",
+    "createdAt": "2025-08-26T19:30:34.564Z",
+    "updatedAt": "2025-08-26T19:30:34.564Z"
+  },
+  "RECEIVED - THANK": {
+    "merchantName": "RECEIVED - THANK",
+    "categoryId": "category_1756234748782_3t7iy6pzj",
+    "createdAt": "2025-08-26T19:30:38.129Z",
+    "updatedAt": "2025-08-26T19:30:38.129Z"
+  },
+  "SCOPA PIZZA Port Carling": {
+    "merchantName": "SCOPA PIZZA Port Carling",
+    "categoryId": "category_1756234704523_3nqxf8s3g",
+    "createdAt": "2025-08-26T19:30:50.988Z",
+    "updatedAt": "2025-08-26T19:30:50.988Z"
+  },
+  "KOODO MOBILE PAC EDMONTON": {
+    "merchantName": "KOODO MOBILE PAC EDMONTON",
+    "categoryId": "category_1756236659899_0w7s7ocq3",
+    "createdAt": "2025-08-26T19:31:03.500Z",
+    "updatedAt": "2025-08-26T19:31:03.500Z"
+  },
+  "ST. LOUIS BAR & GRILL TORONTO": {
+    "merchantName": "ST. LOUIS BAR & GRILL TORONTO",
+    "categoryId": "category_1756236678979_286h5rssv",
+    "createdAt": "2025-08-26T19:31:21.000Z",
+    "updatedAt": "2025-08-26T19:31:21.000Z"
+  },
+  "GitHub": {
+    "merchantName": "GitHub",
+    "categoryId": "category_1756237448573_5i38g1u03",
+    "createdAt": "2025-08-26T19:44:18.387Z",
+    "updatedAt": "2025-08-26T19:44:18.387Z"
+  },
+  "Abukar Holdings": {
+    "merchantName": "Abukar Holdings",
+    "categoryId": "category_1756237489680_gb9yhkk51",
+    "createdAt": "2025-08-26T19:44:52.819Z",
+    "updatedAt": "2025-08-26T19:44:52.819Z"
+  },
+  "Lulua Barakat": {
+    "merchantName": "Lulua Barakat",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:45:09.912Z",
+    "updatedAt": "2025-08-26T19:45:09.912Z"
+  },
+  "Wren Asset Management": {
+    "merchantName": "Wren Asset Management",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:45:24.496Z",
+    "updatedAt": "2025-08-26T19:45:24.496Z"
+  },
+  "Apollo.io": {
+    "merchantName": "Apollo.io",
+    "categoryId": "category_1756237532446_35nkpnrq9",
+    "createdAt": "2025-08-26T19:45:35.764Z",
+    "updatedAt": "2025-08-26T19:45:35.764Z"
+  },
+  "Intl. Transaction Fee": {
+    "merchantName": "Intl. Transaction Fee",
+    "categoryId": "category_1756236077651_m52sswciq",
+    "createdAt": "2025-08-26T19:45:41.167Z",
+    "updatedAt": "2025-08-26T19:45:41.167Z"
+  },
+  "Canva": {
+    "merchantName": "Canva",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:45:57.725Z",
+    "updatedAt": "2025-08-26T19:45:57.725Z"
+  },
+  "Firstbase.io": {
+    "merchantName": "Firstbase.io",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:00.431Z",
+    "updatedAt": "2025-08-26T19:46:00.431Z"
+  },
+  "Amazon Web Services": {
+    "merchantName": "Amazon Web Services",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:04.147Z",
+    "updatedAt": "2025-08-26T19:46:04.147Z"
+  },
+  "Clint Wang": {
+    "merchantName": "Clint Wang",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:46:07.449Z",
+    "updatedAt": "2025-08-26T19:46:07.449Z"
+  },
+  "GoDaddy": {
+    "merchantName": "GoDaddy",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:13.110Z",
+    "updatedAt": "2025-08-26T19:46:13.110Z"
+  },
+  "Framer": {
+    "merchantName": "Framer",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:17.740Z",
+    "updatedAt": "2025-08-26T19:46:17.740Z"
+  },
+  "Figma": {
+    "merchantName": "Figma",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:20.911Z",
+    "updatedAt": "2025-08-26T19:46:20.911Z"
+  },
+  "Wise Inc": {
+    "merchantName": "Wise Inc",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:46:50.128Z",
+    "updatedAt": "2025-08-26T19:46:50.128Z"
+  },
+  "OpenAI": {
+    "merchantName": "OpenAI",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:53.474Z",
+    "updatedAt": "2025-08-26T19:46:53.474Z"
+  },
+  "Hetzner Online": {
+    "merchantName": "Hetzner Online",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:46:56.044Z",
+    "updatedAt": "2025-08-26T19:46:56.044Z"
+  },
+  "dan (Dan Truong)": {
+    "merchantName": "dan (Dan Truong)",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:46:58.195Z",
+    "updatedAt": "2025-08-26T19:46:58.195Z"
+  },
+  "MongoDB": {
+    "merchantName": "MongoDB",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:47:01.666Z",
+    "updatedAt": "2025-08-26T19:47:01.666Z"
+  },
+  "Google Workspace": {
+    "merchantName": "Google Workspace",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:47:04.380Z",
+    "updatedAt": "2025-08-26T19:47:04.380Z"
+  },
+  "Mercury Technologies, Inc.": {
+    "merchantName": "Mercury Technologies, Inc.",
+    "categoryId": "category_1756236077651_m52sswciq",
+    "createdAt": "2025-08-26T19:47:09.309Z",
+    "updatedAt": "2025-08-26T19:47:09.309Z"
+  },
+  "Abdikarim Mohamed Abukar": {
+    "merchantName": "Abdikarim Mohamed Abukar",
+    "categoryId": "category_1756237651554_mf4l5168e",
+    "createdAt": "2025-08-26T19:47:34.861Z",
+    "updatedAt": "2025-08-26T19:47:34.861Z"
+  },
+  "Delaware Corp & Tax": {
+    "merchantName": "Delaware Corp & Tax",
+    "categoryId": "category_1756237651554_mf4l5168e",
+    "createdAt": "2025-08-26T19:47:37.069Z",
+    "updatedAt": "2025-08-26T19:47:37.069Z"
+  },
+  "Twilio": {
+    "merchantName": "Twilio",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:47:49.844Z",
+    "updatedAt": "2025-08-26T19:47:49.844Z"
+  },
+  "WREN ASSET MANAGEMENT LLC YARDAN": {
+    "merchantName": "WREN ASSET MANAGEMENT LLC YARDAN",
+    "categoryId": "category_1756237489680_gb9yhkk51",
+    "createdAt": "2025-08-26T19:47:55.162Z",
+    "updatedAt": "2025-08-26T19:47:55.162Z"
+  },
+  "Firstbase": {
+    "merchantName": "Firstbase",
+    "categoryId": "category_1756237555274_7yar0uw6l",
+    "createdAt": "2025-08-26T19:48:25.047Z",
+    "updatedAt": "2025-08-26T19:48:25.047Z"
+  },
+  "Ifehkar mohammad saimum": {
+    "merchantName": "Ifehkar mohammad saimum",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:48:27.770Z",
+    "updatedAt": "2025-08-26T19:48:27.770Z"
+  },
+  "LinkedIn": {
+    "merchantName": "LinkedIn",
+    "categoryId": "category_1756237532446_35nkpnrq9",
+    "createdAt": "2025-08-26T19:48:31.608Z",
+    "updatedAt": "2025-08-26T19:48:31.609Z"
+  },
+  "STUDIO23LABS LLC C/O NOAH KANN ABDI": {
+    "merchantName": "STUDIO23LABS LLC C/O NOAH KANN ABDI",
+    "categoryId": "category_1756237489680_gb9yhkk51",
+    "createdAt": "2025-08-26T19:48:39.798Z",
+    "updatedAt": "2025-08-26T19:48:39.798Z"
+  },
+  "WWW CASH ADV/AVANCE DE FONDS": {
+    "merchantName": "WWW CASH ADV/AVANCE DE FONDS",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-08-26T19:53:31.722Z",
+    "updatedAt": "2025-08-26T19:53:31.722Z"
+  },
+  "CASH ADVANCE INTEREST 9.85%": {
+    "merchantName": "CASH ADVANCE INTEREST 9.85%",
+    "categoryId": "category_1756234946195_z1ags4sty",
+    "createdAt": "2025-08-26T19:53:46.854Z",
+    "updatedAt": "2025-08-26T19:53:46.854Z"
+  },
+  "e-Transfer - Request Money fee": {
+    "merchantName": "e-Transfer - Request Money fee",
+    "categoryId": "category_1756236077651_m52sswciq",
+    "createdAt": "2025-08-26T19:56:36.157Z",
+    "updatedAt": "2025-08-26T19:56:36.157Z"
+  },
+  "Monthly fee": {
+    "merchantName": "Monthly fee",
+    "categoryId": "category_1756236077651_m52sswciq",
+    "createdAt": "2025-08-26T19:56:43.660Z",
+    "updatedAt": "2025-08-26T19:56:43.660Z"
+  },
+  "e-Transfer sent daniel kal": {
+    "merchantName": "e-Transfer sent daniel kal",
+    "categoryId": "category_1756237507471_io22c0u0e",
+    "createdAt": "2025-09-05T13:58:29.750Z",
+    "updatedAt": "2025-09-05T13:58:29.750Z"
+  }
+}

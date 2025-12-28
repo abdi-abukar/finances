@@ -1,0 +1,254 @@
+[
+  {
+    "id": "category_1756234693956_f6aoh1dul",
+    "name": "Groceries",
+    "color": "#45f042",
+    "createdAt": "2025-08-26T18:58:13.956Z",
+    "updatedAt": "2025-08-26T18:58:14.005Z"
+  },
+  {
+    "id": "category_1756234704523_3nqxf8s3g",
+    "name": "Fast Food",
+    "color": "#ef4444",
+    "createdAt": "2025-08-26T18:58:24.523Z",
+    "updatedAt": "2025-08-26T18:58:24.570Z"
+  },
+  {
+    "id": "category_1756234717460_xkic8j854",
+    "name": "Retail",
+    "color": "#4265f0",
+    "createdAt": "2025-08-26T18:58:37.460Z",
+    "updatedAt": "2025-08-26T18:58:37.497Z"
+  },
+  {
+    "id": "category_1756234748782_3t7iy6pzj",
+    "name": "Credit Card Payments",
+    "color": "#7ff042",
+    "createdAt": "2025-08-26T18:59:08.782Z",
+    "updatedAt": "2025-08-26T18:59:08.828Z"
+  },
+  {
+    "id": "category_1756234769173_4x2elazro",
+    "name": "Utilities",
+    "color": "#caf042",
+    "createdAt": "2025-08-26T18:59:29.173Z",
+    "updatedAt": "2025-08-26T18:59:29.212Z"
+  },
+  {
+    "id": "category_1756234816078_jpqis8j29",
+    "name": "Travel",
+    "color": "#4248f0",
+    "createdAt": "2025-08-26T19:00:16.078Z",
+    "updatedAt": "2025-08-26T19:00:16.133Z"
+  },
+  {
+    "id": "category_1756234838149_9avqhoawv",
+    "name": "Door Dash",
+    "color": "#f52933",
+    "createdAt": "2025-08-26T19:00:38.149Z",
+    "updatedAt": "2025-08-26T19:00:38.183Z"
+  },
+  {
+    "id": "category_1756234854045_z32t4bwvc",
+    "name": "Date Nights",
+    "color": "#f042c1",
+    "createdAt": "2025-08-26T19:00:54.045Z",
+    "updatedAt": "2025-08-26T19:00:54.089Z"
+  },
+  {
+    "id": "category_1756234892519_lleikv55c",
+    "name": "Snacks",
+    "color": "#4542f0",
+    "createdAt": "2025-08-26T19:01:32.519Z",
+    "updatedAt": "2025-08-26T19:01:32.567Z"
+  },
+  {
+    "id": "category_1756234906969_9kt91u9ep",
+    "name": "Ubers",
+    "color": "#7142f0",
+    "createdAt": "2025-08-26T19:01:46.969Z",
+    "updatedAt": "2025-08-26T19:01:47.018Z"
+  },
+  {
+    "id": "category_1756234918297_5rj3cet3t",
+    "name": "Donations",
+    "color": "#c1f042",
+    "createdAt": "2025-08-26T19:01:58.297Z",
+    "updatedAt": "2025-08-26T19:01:58.339Z"
+  },
+  {
+    "id": "category_1756234946195_z1ags4sty",
+    "name": "Credit Card Interest",
+    "color": "#42a5f0",
+    "createdAt": "2025-08-26T19:02:26.195Z",
+    "updatedAt": "2025-08-26T19:02:26.238Z"
+  },
+  {
+    "id": "category_1756234984038_95m8xax6o",
+    "name": "Miscellaneous",
+    "color": "#a39f9f",
+    "createdAt": "2025-08-26T19:03:04.038Z",
+    "updatedAt": "2025-08-26T19:03:04.101Z"
+  },
+  {
+    "id": "category_1756235203378_nf63xaxex",
+    "name": "Credit Card Annual Fees",
+    "color": "#aa42f0",
+    "createdAt": "2025-08-26T19:06:43.378Z",
+    "updatedAt": "2025-08-26T19:06:43.443Z"
+  },
+  {
+    "id": "category_1756235242780_nhvyk6ib0",
+    "name": "Business Expenses",
+    "color": "#4ef042",
+    "createdAt": "2025-08-26T19:07:22.780Z",
+    "updatedAt": "2025-08-26T19:07:22.826Z"
+  },
+  {
+    "id": "category_1756235277977_m74pmu63s",
+    "name": "Maya Gift",
+    "color": "#d3f042",
+    "createdAt": "2025-08-26T19:07:57.977Z",
+    "updatedAt": "2025-08-26T19:07:58.023Z"
+  },
+  {
+    "id": "category_1756235303592_lczml7q8a",
+    "name": "Alcohol",
+    "color": "#fd3030",
+    "createdAt": "2025-08-26T19:08:23.592Z",
+    "updatedAt": "2025-08-26T19:08:23.634Z"
+  },
+  {
+    "id": "category_1756235352162_v1uk5qkk2",
+    "name": "weed",
+    "color": "#f10909",
+    "createdAt": "2025-08-26T19:09:12.162Z",
+    "updatedAt": "2025-08-26T19:09:12.207Z"
+  },
+  {
+    "id": "category_1756235705853_fi79um9r5",
+    "name": "Rent",
+    "color": "#42f04e",
+    "createdAt": "2025-08-26T19:15:05.853Z",
+    "updatedAt": "2025-08-26T19:15:05.894Z"
+  },
+  {
+    "id": "category_1756235902173_93eu2un95",
+    "name": "Cash Withdrawals",
+    "color": "#ff0000",
+    "createdAt": "2025-08-26T19:18:22.173Z",
+    "updatedAt": "2025-08-26T19:18:22.231Z"
+  },
+  {
+    "id": "category_1756235914590_grf83zdpc",
+    "name": "Income",
+    "color": "#42f04e",
+    "createdAt": "2025-08-26T19:18:34.590Z",
+    "updatedAt": "2025-08-26T19:18:34.632Z"
+  },
+  {
+    "id": "category_1756236005309_meu3woa34",
+    "name": "Hair care",
+    "color": "#428df0",
+    "createdAt": "2025-08-26T19:20:05.309Z",
+    "updatedAt": "2025-08-26T19:20:05.348Z"
+  },
+  {
+    "id": "category_1756236077651_m52sswciq",
+    "name": "Debit Account Fees",
+    "color": "#f0426e",
+    "createdAt": "2025-08-26T19:21:17.651Z",
+    "updatedAt": "2025-08-26T19:21:17.714Z"
+  },
+  {
+    "id": "category_1756236488517_wx1nftvhq",
+    "name": "Insurance",
+    "color": "#425ff0",
+    "createdAt": "2025-08-26T19:28:08.517Z",
+    "updatedAt": "2025-08-26T19:28:08.555Z"
+  },
+  {
+    "id": "category_1756236515270_g2v92qy6l",
+    "name": "Amazon",
+    "color": "#872c2c",
+    "createdAt": "2025-08-26T19:28:35.270Z",
+    "updatedAt": "2025-08-26T19:28:35.308Z"
+  },
+  {
+    "id": "category_1756236534440_1umwiqvvk",
+    "name": "Uber Eats",
+    "color": "#f0424b",
+    "createdAt": "2025-08-26T19:28:54.440Z",
+    "updatedAt": "2025-08-26T19:28:54.481Z"
+  },
+  {
+    "id": "category_1756236588785_cfsulegc2",
+    "name": "Me Purchase",
+    "color": "#42f0d3",
+    "createdAt": "2025-08-26T19:29:48.785Z",
+    "updatedAt": "2025-08-26T19:29:48.837Z"
+  },
+  {
+    "id": "category_1756236632787_raxjp49ys",
+    "name": "Wifi",
+    "color": "#424ef0",
+    "createdAt": "2025-08-26T19:30:32.787Z",
+    "updatedAt": "2025-08-26T19:30:32.827Z"
+  },
+  {
+    "id": "category_1756236659899_0w7s7ocq3",
+    "name": "Phone Bill",
+    "color": "#aa42f0",
+    "createdAt": "2025-08-26T19:30:59.899Z",
+    "updatedAt": "2025-08-26T19:30:59.941Z"
+  },
+  {
+    "id": "category_1756236678979_286h5rssv",
+    "name": "Restaurants",
+    "color": "#f0ea42",
+    "createdAt": "2025-08-26T19:31:18.979Z",
+    "updatedAt": "2025-08-26T19:31:19.020Z"
+  },
+  {
+    "id": "category_1756237448573_5i38g1u03",
+    "name": "Github",
+    "color": "#d342f0",
+    "createdAt": "2025-08-26T19:44:08.573Z",
+    "updatedAt": "2025-08-26T19:44:08.614Z"
+  },
+  {
+    "id": "category_1756237489680_gb9yhkk51",
+    "name": "Project Income",
+    "color": "#45f042",
+    "createdAt": "2025-08-26T19:44:49.680Z",
+    "updatedAt": "2025-08-26T19:44:49.721Z"
+  },
+  {
+    "id": "category_1756237507471_io22c0u0e",
+    "name": "Salary Costs",
+    "color": "#f92f2f",
+    "createdAt": "2025-08-26T19:45:07.471Z",
+    "updatedAt": "2025-08-26T19:45:07.510Z"
+  },
+  {
+    "id": "category_1756237532446_35nkpnrq9",
+    "name": "Marketing Costs",
+    "color": "#5742f0",
+    "createdAt": "2025-08-26T19:45:32.446Z",
+    "updatedAt": "2025-08-26T19:45:32.489Z"
+  },
+  {
+    "id": "category_1756237555274_7yar0uw6l",
+    "name": "Operational Costs",
+    "color": "#f042e1",
+    "createdAt": "2025-08-26T19:45:55.274Z",
+    "updatedAt": "2025-08-26T19:45:55.304Z"
+  },
+  {
+    "id": "category_1756237651554_mf4l5168e",
+    "name": "One Time Expense",
+    "color": "#42cdf0",
+    "createdAt": "2025-08-26T19:47:31.554Z",
+    "updatedAt": "2025-08-26T19:47:31.595Z"
+  }
+]
