@@ -46,7 +46,7 @@ export async function POST(request: NextRequest) {
       // VERCEL_PROJECT_PRODUCTION_URL is the production domain (e.g., my-app.vercel.app)
       // VERCEL_URL is the current deployment domain (e.g., my-app-git-main.vercel.app or my-app.vercel.app)
       const vercelUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL || process.env.NEXT_PUBLIC_VERCEL_URL;
-      
+
       if (vercelUrl) {
         // Vercel URLs don't include protocol, so we add https://
         redirectUri = `https://${vercelUrl}/oauth-callback`;
@@ -66,15 +66,18 @@ export async function POST(request: NextRequest) {
     }
 
     // Add link customization for development/production (required for Data Transparency Messaging)
-    // if (process.env.PLAID_ENV !== 'sandbox') {
-    //   if (process.env.PLAID_LINK_CUSTOMIZATION_NAME) {
-    //     linkTokenConfig.link_customization_name = process.env.PLAID_LINK_CUSTOMIZATION_NAME;
-    //     console.log('Using link customization:', process.env.PLAID_LINK_CUSTOMIZATION_NAME);
-    //   } else {
-    //     console.warn('⚠️ WARNING: PLAID_LINK_CUSTOMIZATION_NAME not set. This is required for development/production.');
-    //     console.warn('Configure Data Transparency Messaging at: https://dashboard.plaid.com/link/customizations');
-    //   }
-    // }
+    // Add link customization for development/production (required for Data Transparency Messaging)
+    if (process.env.PLAID_ENV !== 'sandbox') {
+      // Default to 'default' if not set, as this is usually the name of the default customization in Dashboard
+      const customizationName = process.env.PLAID_LINK_CUSTOMIZATION_NAME || 'default';
+
+      linkTokenConfig.link_customization_name = customizationName;
+      console.log('Using link customization:', customizationName);
+
+      if (!process.env.PLAID_LINK_CUSTOMIZATION_NAME) {
+        console.warn('⚠️ Note: PLAID_LINK_CUSTOMIZATION_NAME not set, using "default".');
+      }
+    }
 
     const response = await plaidClient.linkTokenCreate(linkTokenConfig);
 

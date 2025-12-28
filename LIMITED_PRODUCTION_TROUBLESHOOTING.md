@@ -110,10 +110,19 @@ PLAID_SECRET=your_PRODUCTION_secret   # NOT your sandbox secret!
 **Why:** These are **OAuth banks** that require:
 - HTTPS redirect URI (you're on `http://localhost`)
 - Plaid rejects HTTP redirect URIs for security reasons
+- **CRITICAL:** The redirect URI must be **whitelisted** in the Plaid Dashboard
 
 **Solution:**
 
-**For local development with OAuth banks:**
+**1. Whitelist Your Redirect URI (CRITICAL):**
+1. Go to [Plaid Dashboard → APIs](https://dashboard.plaid.com/team/api)
+2. Scroll to **Allowed Redirect URIs**
+3. Click **Add New URI**
+4. Add: `https://finances-phi-nine.vercel.app/oauth-callback` (for Production)
+5. Add: `http://localhost:3000/oauth-callback` (optional, for Sandobx/Development)
+6. Click **Save**
+
+**2. For local development with OAuth banks:**
 1. Install ngrok: `brew install ngrok`
 2. Start tunnel: `ngrok http 3000`
 3. Add to `.env`: `PLAID_REDIRECT_URI=https://your-ngrok-url.ngrok.io/oauth-redirect`
