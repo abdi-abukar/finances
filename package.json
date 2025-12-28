@@ -21,7 +21,7 @@
     "date-fns": "^4.1.0",
     "lucide-react": "^0.536.0",
     "mammoth": "^1.9.1",
-    "next": "15.4.5",
+    "next": "^16.1.1",
     "openai": "^5.11.0",
     "papaparse": "^5.5.3",
     "pdf-parse": "^1.1.1",
