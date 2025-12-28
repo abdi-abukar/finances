@@ -38,13 +38,31 @@ export async function POST(request: NextRequest) {
 
     // Add redirect URI for OAuth banks (required for some banks like RBC)
     // Note: Plaid requires HTTPS for redirect URIs, even in development
-    if (process.env.PLAID_REDIRECT_URI && process.env.PLAID_REDIRECT_URI.startsWith('https://')) {
-      linkTokenConfig.redirect_uri = process.env.PLAID_REDIRECT_URI;
-      console.log('Using redirect URI for OAuth:', process.env.PLAID_REDIRECT_URI);
-    } else if (process.env.PLAID_REDIRECT_URI) {
-      console.warn('⚠️ WARNING: redirect_uri must use HTTPS. Skipping redirect_uri.');
+    // Determine the redirect URI
+    let redirectUri = process.env.PLAID_REDIRECT_URI;
+
+    // If no explicit redirect URI is set, try to infer it from Vercel environment variables
+    if (!redirectUri) {
+      // VERCEL_PROJECT_PRODUCTION_URL is the production domain (e.g., my-app.vercel.app)
+      // VERCEL_URL is the current deployment domain (e.g., my-app-git-main.vercel.app or my-app.vercel.app)
+      const vercelUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL || process.env.NEXT_PUBLIC_VERCEL_URL;
+      
+      if (vercelUrl) {
+        // Vercel URLs don't include protocol, so we add https://
+        redirectUri = `https://${vercelUrl}/oauth-callback`;
+        console.log('Inferred redirect URI from Vercel env:', redirectUri);
+      }
+    }
+
+    // Add redirect URI to config if it exists and uses HTTPS
+    if (redirectUri && redirectUri.startsWith('https://')) {
+      linkTokenConfig.redirect_uri = redirectUri;
+      console.log('Using redirect URI for OAuth:', redirectUri);
+    } else if (redirectUri) {
+      console.warn('⚠️ WARNING: redirect_uri must use HTTPS. Skipping redirect_uri:', redirectUri);
       console.warn('OAuth banks like RBC may not work without HTTPS redirect URI.');
-      console.warn('Consider using ngrok for local HTTPS: https://ngrok.com');
+    } else {
+      console.warn('⚠️ WARNING: No redirect_uri configured. OAuth banks may fail.');
     }
 
     // Add link customization for development/production (required for Data Transparency Messaging)
